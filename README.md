@@ -27,6 +27,6 @@ $ git clone <URL copiada>
 
 ## Executando o Sistema
 
-* Clique com o botão direito do mouse no arquivo index.html no VS Code ou editor de texto da sua preferência e clique abrir com Live Server, aplicação irá abrir no browser
+* Clique com o botão direito do mouse no arquivo index.html no VS Code ou editor de texto da sua preferência e clique abrir com Live Server, aplicação irá abrir no browser.
 
 
