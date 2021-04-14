@@ -3,7 +3,7 @@
 
 ## O Projeto
 
-Nesse projeto criamos ua unica página com o intuito de praticar os conceitos de CSS 3 Flexbox, o layout foi configurado para que nós desenvolvedores podemos aprender sobre o Flexbox nele você pode ver como alinha os itens em diversas posições e támbem  junto com isso estilizar a página.
+Nesse projeto criamos ua unica página com o intuito de praticar os conceitos de CSS 3 Flexbox, o layout foi configurado para que nós desenvolvedores podemos aprender sobre o Flexbox nele você pode ver como alinhar os itens em diversas posições e támbem estilizar a página.
 
 [clique aqui](https://alanvidalll.github.io/CSS-Flexbox/) para navegar na aplicação.
 
